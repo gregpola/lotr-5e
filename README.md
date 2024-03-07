@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/gregpola/fvtt-trazzm-homebrew-5e/total.svg)]() 
+[![Github All Releases](https://img.shields.io/github/downloads/gregpola/lotr-5e/total.svg)]() 
 # lotr-5e
   Foundry module support for The Lord of the Rings 5E RPG
 
