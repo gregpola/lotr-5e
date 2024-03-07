@@ -3,7 +3,7 @@
   Foundry module for The Lord of the Rings 5E RPG
 
 ### Compatibility:
-  - Tested with FVTT v11 and the DND5E system 2.4+
+  - Tested with FVTT v11 and the DND5E system 3.0+
 
 ### Installation Instructions
 
