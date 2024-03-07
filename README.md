@@ -1,6 +1,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/gregpola/lotr-5e/total.svg)]() 
 # lotr-5e
-  Foundry module support for The Lord of the Rings 5E RPG
+  Foundry module for The Lord of the Rings 5E RPG
 
 ### Compatibility:
   - Tested with FVTT v11 and the DND5E system 2.4+
